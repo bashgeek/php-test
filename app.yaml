@@ -1,4 +1,4 @@
-runtime: python71
+runtime: php71
 api_version: 1
 
 handlers:
